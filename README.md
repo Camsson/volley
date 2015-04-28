@@ -1,7 +1,7 @@
 # volley
 a clone of volley from https://android.googlesource.com/platform/frameworks/volley
 
-This library is a clone of volley<br>
+This library is a clone of volley sources<br>
 as we know, chinese developers can't clone it diresctly because of the gfw!
 
 ...so I decided to make a clone and make this..<br>
