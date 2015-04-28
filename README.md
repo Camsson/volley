@@ -6,7 +6,7 @@ as we know, chinese developers can't clone it diresctly because of the gfw!
 
 ...so I decided to make a clone and make this..<br>
 
-![](https://github.com/5peak2me/Yalantis-Series/blob/master/demo.gif)
+![](https://github.com/5peak2me/volley/blob/master/2015-04-28_173927.png)
 
 ..as you see right now,wish you like it.
 
